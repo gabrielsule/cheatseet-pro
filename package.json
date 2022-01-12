@@ -55,6 +55,6 @@
 		"vscode-test": "^1.2.2"
 	},
 	"dependencies": {
-		"markdown-it": "^10.0.0"
+		"markdown-it": "^12.3.2"
 	}
 }
